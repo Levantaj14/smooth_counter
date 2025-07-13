@@ -1,5 +1,7 @@
 # Smooth Counter
 
+*Note:* This is a forked version of the original package, which you can find [on this link](https://github.com/KyoheiG3/smooth_counter).
+
 Smooth Counter is a plugin that allows you to perform smooth count-ups or count-downs, just like the `Text` widget, with simple arguments.
 
 <img width="195" alt="example" src="https://github.com/KyoheiG3/smooth_counter/assets/5707132/20e90a28-c415-4e41-9f03-1201fbb86f28">
